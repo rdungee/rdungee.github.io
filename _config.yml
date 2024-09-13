@@ -67,7 +67,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+  hide                   : true # true, false (default)
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -137,6 +137,9 @@ author:
     - label: "Flickr"
       icon: "fab fa-fw fa-flickr"
       url: "https://www.flickr.com/photos/198080685@N02/"
+    - label: "ORCiD"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0001-6669-0217"
 
 # Site Footer
 footer:
