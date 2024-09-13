@@ -4,7 +4,6 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  actions:
-    - label: "<i class='fas fa-download'></i> Install now"
-      url: "/docs/quick-start-guide/"
+excerpt: >
+  Please be patient, this site is under construction.<br />
 ---
