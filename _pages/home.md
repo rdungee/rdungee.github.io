@@ -7,21 +7,21 @@ header:
 excerpt: >
   Please be patient, this site is under construction.<br />
 feature_row:
-  - image_path: /assets/images/headshot.jpg
+  - image_path: /assets/images/headshot_small.jpg
     alt: "About me"
     title: "About me"
     excerpt: "Placeholder"
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/headshot.jpg
+  - image_path: /assets/images/headshot_small.jpg
     alt: "About me"
     title: "About me"
     excerpt: "Placeholder"
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/headshot.jpg
+  - image_path: /assets/images/headshot_small.jpg
     alt: "About me"
     title: "About me"
     excerpt: "Placeholder"
