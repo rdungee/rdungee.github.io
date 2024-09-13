@@ -4,6 +4,8 @@ main:
     url: /about/
   - title: "Research"
     url: /research/
+  - title: "Publications"
+    url: /publications/
   - title: "CV"
     url: https://rdungee.github.io/cv/rdungee_CV.pdf
   # - title: "Sample Posts"
