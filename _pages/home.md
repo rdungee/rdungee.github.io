@@ -27,7 +27,7 @@ feature_row:
     excerpt: "A list of my publications."
     url: "/publications/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "See them all"
 ---
 
 {% include feature_row %}
