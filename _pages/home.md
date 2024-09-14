@@ -21,9 +21,9 @@ feature_row:
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/placeholder.jpg
-    alt: "About me"
-    title: "About me"
+  - image_path: /assets/images/publications.png
+    alt: "My papers"
+    title: "Publications"
     excerpt: "A list of my publications."
     url: "/publications/"
     btn_class: "btn--primary"
