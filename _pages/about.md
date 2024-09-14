@@ -12,4 +12,4 @@ After that I moved to Honolulu where I started in the Astronomy PhD program at t
 I currently live in Toronto, where I am a Dunlap Fellow at the Dunlap Institute for Astronomy & Astrophysics.
 Outside of my work in astronomy I like to spend my downtime running, working on my photography (particularly of birds), and reading (mostly fantasy and sci-fi).
 
-![This is a test image](/assets/images/placeholder.jpg) ![This is a test image](/assets/images/placeholder.jpg) ![This is a test image](/assets/images/placeholder.jpg)
+![This is a test image](/assets/images/aboutme1.png) ![This is a test image](/assets/images/aboutme2.png) ![This is a test image](/assets/images/aboutme3.png)
