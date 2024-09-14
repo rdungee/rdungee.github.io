@@ -14,7 +14,7 @@ feature_row:
     url: "/research/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/headshot_small.jpg
+  - image_path: /assets/images/headshot_small.png
     alt: "About me"
     title: "About me"
     excerpt: "I'm a postdoctoral fellow at Dunlap Institute, I spend my downtime running and working on my photography."

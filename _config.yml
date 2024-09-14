@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Ryan Dungee"
-  avatar           : "/assets/images/headshot.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/headshot_small.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Dunlap Fellow"
   location         : "Toronto"
   email            :
