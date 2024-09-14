@@ -5,7 +5,7 @@ hidden: true
 header:
   overlay_color: "#5e616c"
 excerpt: >
-  Please be patient, this site is under construction.<br />
+  My name is Ryan Dungee, welcome to my personal site. Please be patient, it is currently under construction.<br />
 feature_row:
   - image_path: /assets/images/placeholder.jpg
     alt: "What I work on"
@@ -24,7 +24,7 @@ feature_row:
   - image_path: /assets/images/publications.png
     alt: "My papers"
     title: "Publications"
-    excerpt: "A list of my publications."
+    excerpt: "I've written papers on a number of different astronomical subjects."
     url: "/publications/"
     btn_class: "btn--primary"
     btn_label: "See them all"
