@@ -17,6 +17,9 @@ The goal is to combine wavefront sensor data with external information on the wi
 My current approach makes use of principles derived from predictive Fourier control, which would mean successful "temporal tomography" would not only reduce tomographic reconstruction errors, but temporal lag errors as well.
 Ultimately, I want this work to reduce the total number of guide stars required to do tomographic wavefront reconstruction, enabling more wide spread adoption of these systems through reduced cost and increased sky coverage.
 
+I also spend some helping supervise students in detector characterization.
+We have looked at a variety of brand new scientific CMOS detectors, measured their read noise, dark current, gain values, and linearity to determine their suitability for use in astronomical instruments.
+
 # Past Work
 ## As a Grad Student
 In addition to working on the first steps of my temporal tomography work mentioned above, I also worked on a few other projects as a graduate student.
