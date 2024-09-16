@@ -25,7 +25,7 @@ feature_row:
   - image_path: /assets/images/publications.png
     alt: "My papers"
     title: "Publications"
-    excerpt: "I've written papers on a number of different astronomical subjects."
+    excerpt: "I've written papers on a number of different astronomical subjects. <font color=\"#FFFFFF\">This sentence is to make the buttons even.</font>
     url: "/publications/"
     btn_class: "btn--primary"
     btn_label: "See them all"
