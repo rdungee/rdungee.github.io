@@ -3,11 +3,12 @@ layout: splash
 permalink: /
 hidden: true
 header:
-  overlay_color: "#5e616c"
+  overlay_color: "#000000"
+  overlay_image: /assets/images/splash_image.png
 excerpt: >
   My name is Ryan Dungee, welcome to my personal site. Please be patient, it is currently under construction.<br />
 feature_row:
-  - image_path: /assets/images/placeholder.jpg
+  - image_path: /assets/images/home_page_research.png
     alt: "What I work on"
     title: "Research"
     excerpt: "I spend my time working on tomographic adaptive optics systems and turbulence profiling instrumentation."
